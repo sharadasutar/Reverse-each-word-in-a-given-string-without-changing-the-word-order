@@ -1,0 +1,2 @@
+# Reverse-each-word-in-a-given-string-without-changing-the-word-order
+Write a function in C to reverse each word in a given string without changing the word order. The function should work within constrained memory limits, avoiding dynamic memory               allocation(e.g., malloc) and using only a limited number of additional variables. Assume that the string can fit within a standard fixed-length.
